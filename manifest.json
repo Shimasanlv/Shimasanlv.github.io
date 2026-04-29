@@ -1,0 +1,8 @@
+{
+  "name": "カフェ",
+  "short_name": "カフェ",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff4fa3"
+}
